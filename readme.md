@@ -12,6 +12,19 @@ Shaibal Muhtadee
 This repo is a clone of 
 https://github.com/nelaturuk/education_pathways.  
 
+
+## Activity 1
+![activity1](https://user-images.githubusercontent.com/60166218/197894417-6cc64991-ef5d-492b-ac22-b1e99aa9da6d.png)
+
+## Activity 5
+
+
+## Activity 6
+
+
+
+
+
 ## Description
 Welcome to CARTE's in-development tool for course selection at UofT. Education Pathways allows for more intelligent course searching, by matching not just the terms you search, but ones relevant to them. The more terms you search for, the more relevant your results will be! Even try searching across disciplines for the courses that best cover each.
 
@@ -22,7 +35,6 @@ We are looking for feedback to improve Education Pathways and make it more usefu
 ## Setup Instructions
 
 ### With Docker
-
 
 
 ## Repository files:
