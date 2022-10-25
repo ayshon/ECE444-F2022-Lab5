@@ -2,8 +2,11 @@
 
 ## Note:
 The following students are working on this repo:
+
 Sean Llera
+
 Ali Meshkat
+
 Shaibal Muhtadee
 
 This repo is a clone of 
