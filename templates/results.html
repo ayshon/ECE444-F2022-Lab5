@@ -13,22 +13,17 @@
 <body>
     {% from "_formhelpers.html" import render_field %}
     <h3>Search for courses</h3>
-    <form method="post">
-      <dl>
-        {{ render_field(form.select) }}
-        <div class="home-page-introduction">
+    <form method="post" class="common-page-form">
+      <div id="home-page-introduction">
+        <dl>
+          {{ render_field(form.select) }}
           <p>
               Restrict by one of: {{ render_field(form.divisions) }} or {{ render_field(form.departments) }} or {{ render_field(form.campuses) }}
           </p> 
-        </div>
-        <div class="home-page-introduction">
           <p>{{ render_field(form.search) }}</p>
-        </div>
-      </dl>
-      <div class="home-page-introduction">
-        <p>{{render_field(form.top)}} <button type="submit" value="Search" class="common-page-submit-btn"></button></p>
+        </dl>
+          <p>{{render_field(form.top)}} <button type="submit" class="btn common-page-submit-btn">Search</button></p>
       </div>
-      <h3>Search for courses</h3>
     </form>
     <h3>Search Results</h3>
     <div id="results-page-table-container">
