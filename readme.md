@@ -16,8 +16,12 @@ https://github.com/nelaturuk/education_pathways.
 ## Activity 1
 ![activity1](assignment_imgs/activity1.png)
 
-## Activity 5
+## Activity 2-5
+![homepage](assignment_imgs/homepage-s.jpg)
 
+![form](assignment_imgs/form-ss.jpg)
+
+![results](assignment_imgs/results-ss.jpg)
 
 ## Activity 6
 
