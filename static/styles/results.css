@@ -1,0 +1,35 @@
+/* Activity 4 - 1 */
+#results-page-table-container {
+   margin: 20px auto;
+}
+
+/* Activity 4 - 2 */
+#results-page-table-container table {
+   border-radius: 20px;
+   padding: 20px;
+   border-collapse: separate;
+}
+
+/* Activity 4 - 3 */
+#results-page-table-container table td {
+   padding: 3px;
+   border-left: 1px solid #00204E;
+   border-bottom: 1px solid #00204E;
+}
+
+/* Activity 4 - 4 */
+#results-page-table-container table th {
+   text-align: center;
+   position: sticky;
+   top: 2px;
+   z-index: 10;
+   background-color: #00204E;
+   color: white;
+   border-left: 1px solid #00204E;
+   border-bottom: 1px solid #00204E;
+}
+
+/* Activity 4 - 5 */
+#results-page-table-container table th:last-child, #results-page-table-container table td:last-child {
+   border-right: 1px solid #00204E;
+}
