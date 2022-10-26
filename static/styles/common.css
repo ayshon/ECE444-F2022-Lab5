@@ -1,0 +1,44 @@
+/* Activity 4 - 1 */
+body {
+   font-family: Verdana;
+   padding: 40px;
+   background-color: #C7F3FF;
+}
+
+/* Activity 4 - 2 */
+h1, h3 {
+   color: #00204E;
+}
+
+/* Activity 4 - 3 */
+.common-page-heading-container {
+   text-align: center;
+   margin: 20px auto;
+}
+
+/* Activity 4 - 4 */
+.common-page-form select, .common-page-form input {
+   background-color: beige;
+   border-radius: 5px;
+   border-color: transparent;
+}
+
+/* Activity 4 - 5 */
+.common-page-form-field {
+   margin: 2px auto;
+}
+
+/* Activity 4 - 6 */
+.common-page-form {
+   border-width: 2px;
+   border-style: solid;
+   border-color: #00204E;
+   border-radius: 20px;
+   padding: 20px;
+   margin: 20px auto;
+}
+
+/* Activity 4 - 7 */
+.common-page-submit-btn {
+   margin-top: 20px;
+}
