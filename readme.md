@@ -31,7 +31,7 @@ User Stories 1 & 2 & 3: Course Page - its minors, career paths and Student Revie
 <img width="719" alt="image" src="https://user-images.githubusercontent.com/29826854/198181016-2a21901f-eef8-4fce-a789-42bd10f97f21.png">
 
 
-User Story 4 (Bonus): Minors Dropdowwn
+User Story 4 (Bonus): Minors Dropdown
 
 <img width="721" alt="image" src="https://user-images.githubusercontent.com/29826854/198181158-9b63f6d7-bec5-4b8c-8742-4e78b164686a.png">
 
